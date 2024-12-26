@@ -1,4 +1,4 @@
-# 🌟 Emotion Recognition Using Facial Expressions 🌟
+#  Emotion Recognition Using Facial Expressions 
 
 ## 📖 Overview  
 This project leverages **Artificial Intelligence (AI)** and **Convolutional Neural Networks (CNNs)** to accurately recognize and analyze human emotions through facial expressions. By integrating techniques such as **transfer learning** and **data augmentation**, the model achieves high accuracy and demonstrates the potential of AI in emotion detection technology.  
