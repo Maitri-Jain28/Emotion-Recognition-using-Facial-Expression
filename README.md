@@ -47,9 +47,4 @@ The dataset used for this project is sourced from Kaggle and contains images cat
 
 ---
 
-## 📸 Demo  
-![Emotion Detection Demo](https://via.placeholder.com/800x400.png?text=Insert+Demo+Image+or+GIF+Here)
-
----
-
 🎉 **Feel free to contribute to this project or share your feedback!**
