@@ -46,5 +46,3 @@ The dataset used for this project is sourced from Kaggle and contains images cat
 -  **Real-Time Performance**: Optimize the model for faster processing in real-time applications.  
 
 ---
-
-🎉 **Feel free to contribute to this project or share your feedback!**
